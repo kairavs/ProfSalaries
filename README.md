@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kairavs/ProfSalaries/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kairavs/ProfSalaries/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Professor Salaries and Years Since PHD 
+by Kairav Sharma 
+<br>
+This dataset, downloaded from [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) has information regarding professor salaries as well as background information like gender, years since PHD, years working, and even their Rank. 
+<br>
+TODO:PUT VISUALS 
+<br>
+The above visualization depicts the relationship between salary and years since PHD. It is quite evident that the professors who did their PHD a long time ago typically get paid more. The scatter plot also shows how the different position titles tie into both pay but also time since getting their doctorate. Assistant Professors get paid the least, and they are typicall recent PHD graduates as well. 
+<br>
