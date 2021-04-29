@@ -1,7 +1,7 @@
-## Professor Salaries and Years Since PHD 
-by Kairav Sharma 
+## Professor Salaries and Years Since PHD by Kairav Sharma 
 <br>
-This dataset, downloaded from [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) has information regarding professor salaries as well as background information like gender, years since PHD, years working, and even their Rank. 
+This dataset, downloaded from [R datasets](https://vincentarelbundock.github.io/Rdatasets/articles/data.html) has information regarding professor salaries as well as background information like gender, years since PHD, years working, and even their rank. 
+
 <br>
 
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
